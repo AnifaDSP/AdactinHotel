@@ -24,17 +24,11 @@ public class ClassA {
 
 
 	}
-	 private void checkin() {
-			System.out.println("05/01/2023");
-			
-		}
-		private void checkout() {
-			System.out.println("06/01/2023");
+	 private void city() {
+		 System.out.println("thoripakkam");
+	}
 
-		}
-		private void noofchildrens() {
-			System.out.println("one");
-
-}
-
-}
+	 private void firstname() {
+		 System.out.println("ajith");
+	 }
+	 }
