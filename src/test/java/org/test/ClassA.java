@@ -24,6 +24,12 @@ public class ClassA {
 
 
 	}
+	 private void friendname() {
+		 System.out.println("anifa");
+	}
+	 private void girlfriend() {
+		 System.out.println("Karthirna Kaif");
+	}
 	 private void city() {
 		 System.out.println("thoripakkam");
 	}
